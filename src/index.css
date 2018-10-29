@@ -12,3 +12,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.header {
+  /* background-image: url('../public/images/react-logo.svg'); */
+  background-image: url('/images/react-logo.svg');
+  
+  /* background-color: black; */
+}
+h1 {
+  color: red;
+}
